@@ -1,3 +1,0 @@
-# MyApplication
-# MyApplication
-# MyApplication
